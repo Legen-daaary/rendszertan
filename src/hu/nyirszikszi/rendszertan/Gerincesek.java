@@ -26,7 +26,7 @@ public abstract class Gerincesek {
         return suly;
     }
 
-    protected void setSuly(int suly) {
+    protected void setSuly(double suly) {
         this.suly += suly;
     }
 
