@@ -13,5 +13,4 @@ public abstract class Allat {
 
     public abstract Allat szaporodik();
 
-
 }
