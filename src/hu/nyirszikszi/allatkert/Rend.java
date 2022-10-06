@@ -1,5 +1,5 @@
 package hu.nyirszikszi.allatkert;
 
-public enum Taplalek {
+public enum Rend {
     HUSEVO, NOVENYEVO, MINDENEVO
 }
