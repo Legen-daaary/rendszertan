@@ -1,4 +1,4 @@
-package hu.nyirszikszi.allatkert;
+package hu.nyirszikszi.rendszertan;
 
 import java.util.LinkedList;
 import java.util.Queue;

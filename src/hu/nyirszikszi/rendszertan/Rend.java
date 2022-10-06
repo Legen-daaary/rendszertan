@@ -1,4 +1,4 @@
-package hu.nyirszikszi.allatkert;
+package hu.nyirszikszi.rendszertan;
 
 public enum Rend {
     HUSEVO, NOVENYEVO, MINDENEVO
