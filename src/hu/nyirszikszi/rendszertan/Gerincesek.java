@@ -7,15 +7,14 @@ public abstract class Gerincesek {
     private final String NEV; //latin
     private double suly;
     private String szin;
-    private final Rend REND;
+
     private int labakSzama;
     private final Queue<String> GYOMOR = new LinkedList<>();
 
-    public Gerincesek(String NEV, double suly, String szin, Rend REND, int labakSzama) {
+    public Gerincesek(String NEV, double suly, String szin, int labakSzama) {
         this.NEV = NEV;
         this.suly = suly;
         this.szin = szin;
-        this.REND = REND;
         this.labakSzama = labakSzama;
     }
 
@@ -38,8 +37,6 @@ public abstract class Gerincesek {
     public void setSzin(String szin) {
         this.szin = szin;
     }
-
-    public Rend getREND() { return this.REND; }
 
     public int getLabakSzama() {
         return labakSzama;
