@@ -3,7 +3,7 @@ package hu.nyirszikszi.rendszertan;
 
 public class BarnaMedve  extends Emlos {
     public BarnaMedve(double suly, String szin, Szorzet szorzet) {
-        super("Barna Medve", suly, szin, 4, szorzet);
+        super("Ursus arctos", suly, szin, 4, szorzet);
     }
 
 
