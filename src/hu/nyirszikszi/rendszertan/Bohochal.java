@@ -3,7 +3,7 @@ package hu.nyirszikszi.rendszertan;
 public class Bohochal extends Halak{
 
     public Bohochal(double suly, String szin) {
-        super("Bohóchal", suly, szin);
+        super("Amphiprion", suly, szin);
     }
 
     @Override
